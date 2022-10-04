@@ -1,8 +1,8 @@
 # Usage
 * **Paper**  
-[Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358)  
+[Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358)
 
-* **Usage Code**  
+* **Usage Code**
 ```
 from ExternalAttention import ExternalAttention
 import torch
