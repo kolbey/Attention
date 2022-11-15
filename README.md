@@ -2,7 +2,7 @@
 **Attention** is an open-source attention mechanism toolbox based on Pytorch, which mainly focuses on developing effective attention modules for intelligent analysis of remote sensing images.
 
 ## Catalogue
-* [External Attention](ExternalAttention.py)
+- [External Attention](ExternalAttention.py)
 
   [Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks---arXiv 2021.05.05](https://arxiv.org/abs/2105.02358)
 
